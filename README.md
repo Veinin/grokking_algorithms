@@ -3,16 +3,12 @@
 ## table of contents
 
 * 01_introduction_to_algorithms
-  * c
-    * [binary_sarch](./01_introduction_to_algorithms/python/01_binary_search.py)
-  * c++
-    * [binary_sarch](./01_introduction_to_algorithms/python/01_binary_search.py)
-  * java
-    * [binary_sarch](./01_introduction_to_algorithms/python/01_binary_search.py)
-  * python
-    * [binary_sarch](./01_introduction_to_algorithms/python/01_binary_search.py)
-  * lua
-    * [binary_sarch](./01_introduction_to_algorithms/lua/01_binary_search.lua)
+  * binary_sarch
+    * [c](./01_introduction_to_algorithms/python/01_binary_search.py)
+    * [c++](./01_introduction_to_algorithms/python/01_binary_search.py)
+    * [java](./01_introduction_to_algorithms/python/01_binary_search.py)
+    * [python](./01_introduction_to_algorithms/python/01_binary_search.py)
+    * [lua](./01_introduction_to_algorithms/lua/01_binary_search.lua)
 
 * 02_selection_sort
 * 03_recursion
