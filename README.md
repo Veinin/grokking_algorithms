@@ -31,21 +31,28 @@
 
 * 04_quicksort
   * loop_sum |
-    [Python](./04_quicksort/python/01_countdown.py) |
+    [Python](./04_quicksort/python/01_loop_sum.py) |
+    [Lua](./04_quicksort/lua/01_loop_sum.lua) |
   * recursive_sum |
     [Python](./04_quicksort/python/02_recursive_sum.py) |
+    [Lua](./04_quicksort/lua/02_recursive_sum.lua) |
   * recursive_count |
     [Python](./04_quicksort/python/03_recursive_count.py) |
+    [Lua](./04_quicksort/lua/03_recursive_count.lua) |
   * recursive_max |
     [Python](./04_quicksort/python/04_recursive_max.py) |
+    [Lua](./04_quicksort/lua/04_recursive_max.lua) |
   * quicksort |
     [Python](./04_quicksort/python/05_quicksort.py) |
+    [Lua](./04_quicksort/lua/05_quicksort.lua) |
 
 * 05_hash_tables
   * price_of_groceries |
     [Python](./05_hash_tables/python/01_price_of_groceries.py) |
+    [Lua](./05_hash_tables/lua/01_price_of_groceries.lua) |
   * check_voter |
     [Python](./05_hash_tables/python/02_check_voter.py) |
+    [Lua](./05_hash_tables/lua/02_check_voter.lua) |
 
 * 06_breadth-first_search
   * breadth-first_search |
