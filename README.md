@@ -57,6 +57,7 @@
 * 06_breadth-first_search
   * breadth-first_search |
     [Python](./06_breadth-first_search/python/01_breadth-first_search.py) |
+    [Lua](./06_breadth-first_search/lua/01_breadth-first_search.lua) |
 
 * 07_dijkstras_algorithm
   * dijkstras_algorithm |
